@@ -11,14 +11,14 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
 ## 🚀 Projects Overview
 
 ### 1. [Sales Performance Dashboard](./SalesPerformanceDashboard)
-- **Description:** A comprehensive dashboard to analyze sales performance across different regions and product categories.
+- **Description:** Different comprehensive dashboards prepared to analyze sales performance across different regions and product categories on different datasets.
 - **Features:**
   - Key Performance Indicators (KPIs)
   - Sales trends and comparisons
   - Regional performance analysis
   - Product category performance
 - **Screenshots:**
-  ![Sales Dashboard](./images/sales_dashboard.png)
+  ![Sales Dashboard](C:\Users\user\Pictures\Screenshots\Screenshot 2024-05-10 210410.png)
 
 ### 2. [HR Analytics Dashboard](./HRAnalyticsDashboard)
 - **Description:** A dashboard focused on HR data to monitor various HR metrics such as employee demographics, turnover rates, and gender diversity.
