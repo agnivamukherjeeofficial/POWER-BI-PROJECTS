@@ -11,14 +11,13 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
 ## 🚀 Projects Overview
 
 ### 1. [Sales Performance Dashboard](./SalesPerformanceDashboard)
-- **Description:** Different comprehensive dashboards prepared to analyze sales performance across different regions and product categories on different datasets.
+- **Description:** Different comprehensive dashboards prepared to analyze sales performance across different regions and product categories on different datasets Like Amazon Sales Analysis, Adidas Sales Analysis, Call Centre Analysis, Pizza Sales Analysis.
 - **Features:**
   - Key Performance Indicators (KPIs)
   - Sales trends and comparisons
   - Regional performance analysis
   - Product category performance
-- **Screenshots:**
-  ![Sales Dashboard](C:\Users\user\Pictures\Screenshots\Screenshot 2024-05-10 210410.png)
+
 
 ### 2. [HR Analytics Dashboard](./HRAnalyticsDashboard)
 - **Description:** A dashboard focused on HR data to monitor various HR metrics such as employee demographics, turnover rates, and gender diversity.
@@ -27,8 +26,7 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
   - Turnover analysis
   - Gender diversity metrics
   - Department-wise analysis
-- **Screenshots:**
-  ![HR Dashboard](./images/hr_dashboard.png)
+
 
 ### 3. [Financial Analysis Dashboard](./FinancialAnalysisDashboard)
 - **Description:** This dashboard provides insights into the financial performance of a company, including revenue, expenses, and profit margins.
@@ -37,8 +35,7 @@ Welcome to the **Power BI Projects** repository! This repository contains a coll
   - Profit margin analysis
   - Year-over-year comparisons
   - Detailed financial breakdowns
-- **Screenshots:**
-  ![Financial Dashboard](./images/financial_dashboard.png)
+
 
 ## 📂 Project Structure
 
@@ -46,7 +43,6 @@ Each project folder contains the following files:
 
 - **Data:** The raw data files used in the project.
 - **PBIX File:** The Power BI project file.
-- **Screenshots:** Visual snapshots of the dashboards.
 - **Documentation:** Detailed explanation of the project, including data sources, transformation steps, and insights.
 
 ## 🛠️ Tools and Technologies
